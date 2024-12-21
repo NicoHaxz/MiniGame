@@ -1,0 +1,4 @@
+name: RandomPlugin
+version: '${project.version}'
+main: plugin.randomplugin.RandomPlugin
+api-version: '1.19'
